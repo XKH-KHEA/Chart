@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace SignalRChat.Pages
 {
-    public class Index1Model : PageModel
+    public class Location : PageModel
     {
         public void OnGet()
         {
