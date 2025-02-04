@@ -36,3 +36,66 @@
 </div>
 <script src="~/js/signalr/dist/browser/signalr.js"></script>
 <script src="~/js/chat.js"></script>
+
+<style>
+    .chat-container {
+        width: 50%;
+        margin: auto;
+        padding: 20px;
+        border-radius: 8px;
+        background: #f9f9f9;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .chat-row {
+        display: flex;
+        align-items: center;
+        margin-bottom: 10px;
+    }
+
+    .chat-label {
+        width: 80px;
+        font-weight: bold;
+    }
+
+    .chat-input input {
+        width: 100%;
+        padding: 8px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+    }
+
+    .text-end {
+        text-align: right;
+    }
+
+    #sendButton {
+        padding: 8px 15px;
+        background: #007bff;
+        color: white;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+
+    #sendButton:hover {
+        background: #0056b3;
+    }
+
+    .chat-divider {
+        border-top: 1px solid #ddd;
+        margin: 15px 0;
+    }
+
+    #messagesList {
+        list-style: none;
+        padding: 0;
+    }
+
+    #messagesList li {
+        background: #e9ecef;
+        padding: 8px;
+        border-radius: 4px;
+        margin-bottom: 5px;
+    }
+</style>
