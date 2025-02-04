@@ -33,3 +33,4 @@ C:\Users\ROG\Documents\ASP_NET\SignalRChat\obj\Debug\net8.0\SignalRChat.pdb
 C:\Users\ROG\Documents\ASP_NET\SignalRChat\obj\Debug\net8.0\SignalRChat.genruntimeconfig.cache
 C:\Users\ROG\Documents\ASP_NET\SignalRChat\obj\Debug\net8.0\ref\SignalRChat.dll
 C:\Users\ROG\Documents\ASP_NET\SignalRChat\bin\Debug\net8.0\libman.json
+C:\Users\ROG\Documents\ASP_NET\SignalRChat\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
