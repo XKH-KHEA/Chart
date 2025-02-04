@@ -1,4 +1,4 @@
-﻿@* @page
+﻿@page
 @model SignalRChat.Pages.videoModel
 @{
 
@@ -53,64 +53,4 @@
         background: #0056b3;
     }
 </style>
-} *@
-
-@page
-<div class="video-container">
-    <h2>Live Video Stream</h2>
-    <video id="localVideo" autoplay muted></video>
-    <button id="startButton">Start Stream</button>
-    
-    <h3>Viewers</h3>
-    <div id="viewersContainer"></div>
-</div>
-
-<script src="~/js/signalr/dist/browser/signalr.js"></script>
-<script src="~/js/video.js"></script>
-
-<style>
-    .video-container {
-        width: 60%;
-        margin: auto;
-        text-align: center;
-        padding: 20px;
-        background: #f9f9f9;
-        border-radius: 8px;
-        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-    }
-
-    video {
-        width: 80%;
-        max-width: 600px;
-        border-radius: 8px;
-        margin-bottom: 10px;
-        border: 3px solid #007bff;
-    }
-
-    #startButton {
-        padding: 10px 15px;
-        background: #007bff;
-        color: white;
-        border: none;
-        border-radius: 4px;
-        cursor: pointer;
-        font-size: 16px;
-    }
-
-    #startButton:hover {
-        background: #0056b3;
-    }
-
-    #viewersContainer {
-        display: flex;
-        justify-content: center;
-        flex-wrap: wrap;
-    }
-
-    .viewerVideo {
-        width: 40%;
-        max-width: 400px;
-        margin: 5px;
-        border: 2px solid green;
-    }
-</style>
+}
