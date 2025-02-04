@@ -1,0 +1,8 @@
+C:\Users\ROG\Documents\ASP_NET\SignalRChat\obj\Release\net8.0\PubTmp\Out\SignalRChat.exe
+C:\Users\ROG\Documents\ASP_NET\SignalRChat\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\ROG\Documents\ASP_NET\SignalRChat\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\ROG\Documents\ASP_NET\SignalRChat\obj\Release\net8.0\PubTmp\Out\libman.json
+C:\Users\ROG\Documents\ASP_NET\SignalRChat\obj\Release\net8.0\PubTmp\Out\SignalRChat.dll
+C:\Users\ROG\Documents\ASP_NET\SignalRChat\obj\Release\net8.0\PubTmp\Out\SignalRChat.deps.json
+C:\Users\ROG\Documents\ASP_NET\SignalRChat\obj\Release\net8.0\PubTmp\Out\SignalRChat.runtimeconfig.json
+C:\Users\ROG\Documents\ASP_NET\SignalRChat\obj\Release\net8.0\PubTmp\Out\SignalRChat.pdb
