@@ -28,6 +28,8 @@ namespace SignalRChat
 
             app.UseRouting();
             app.MapHub<ChatHub>("/chatHub");
+            app.MapHub<NotificationHub>("/notificationHub");
+
             app.UseAuthorization();
 
             app.MapRazorPages();

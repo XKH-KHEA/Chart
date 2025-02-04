@@ -1,0 +1,73 @@
+﻿@page
+@model SignalRChat.Pages.Index1Model
+@{
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Real-Time Notifications</title>
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+            }
+
+            #notification-container {
+                position: fixed;
+                top: 10px;
+                right: 10px;
+                z-index: 9999;
+            }
+
+            .notification {
+                background-color: #4caf50;
+                color: white;
+                padding: 10px;
+                margin-bottom: 10px;
+                border-radius: 5px;
+                box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+            }
+        </style>
+    </head>
+    <body>
+        <h2>Real-Time Notifications Example</h2>
+        <div id="notification-container"></div>
+
+        <script src="~/js/signalr/dist/browser/signalr.js"></script>
+        <script>
+            const connection = new signalR.HubConnectionBuilder()
+                .withUrl("/notificationHub")
+                .build();
+
+            connection.start().then(function () {
+                console.log("SignalR Connected");
+
+                // Example of sending a notification (e.g., New Order or Message)
+                setInterval(function () {
+                    connection.invoke("SendMessage", "Admin", "New Order Received!")
+                        .catch(err => console.error(err));
+                }, 5000); // Send every 5 seconds as an example
+            }).catch(function (err) {
+                console.error("SignalR Connection Error:", err);
+            });
+
+            // Listening for incoming notifications
+            connection.on("ReceiveMessage", function (user, message) {
+                const notificationContainer = document.getElementById("notification-container");
+
+                const notification = document.createElement("div");
+                notification.classList.add("notification");
+                notification.textContent = `${user}: ${message}`;
+
+                notificationContainer.appendChild(notification);
+
+                // Auto hide notification after 5 seconds
+                setTimeout(() => {
+                    notificationContainer.removeChild(notification);
+                }, 5000);
+            });
+        </script>
+    </body>
+    </html>
+
+}
