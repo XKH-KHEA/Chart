@@ -37,6 +37,14 @@
             },
             "Patterns": null
           },
+          "location.js": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "js/location.js"
+            },
+            "Patterns": null
+          },
           "signalr": {
             "Children": {
               "dist": {

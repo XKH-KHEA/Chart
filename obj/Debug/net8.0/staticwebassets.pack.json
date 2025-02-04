@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\js\\chat.js"
     },
     {
+      "Id": "C:\\Users\\ROG\\Documents\\ASP_NET\\SignalRChat\\wwwroot\\js\\location.js",
+      "PackagePath": "staticwebassets\\js\\location.js"
+    },
+    {
       "Id": "C:\\Users\\ROG\\Documents\\ASP_NET\\SignalRChat\\wwwroot\\js\\signalr\\dist\\browser\\signalr.js",
       "PackagePath": "staticwebassets\\js\\signalr\\dist\\browser\\signalr.js"
     },

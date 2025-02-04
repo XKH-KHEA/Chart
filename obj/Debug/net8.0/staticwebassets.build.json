@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HQYNM04fm/GbQkMVPZj8GCu461zdPwFpK9QD2sSSkz8=",
+  "Hash": "kgTnm3itBWuxtljwUM2Hc/A6XxKYZ7gvndiUKAUL9io=",
   "Source": "SignalRChat",
   "BasePath": "_content/SignalRChat",
   "Mode": "Default",
@@ -120,6 +120,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\chat.js"
+    },
+    {
+      "Identity": "C:\\Users\\ROG\\Documents\\ASP_NET\\SignalRChat\\wwwroot\\js\\location.js",
+      "SourceId": "SignalRChat",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ROG\\Documents\\ASP_NET\\SignalRChat\\wwwroot\\",
+      "BasePath": "_content/SignalRChat",
+      "RelativePath": "js/location#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b44fxd1gx7",
+      "Integrity": "ZRh9ZrmusrCnrxE9d2aZPJcHNAEPNaEdB+y0Vu22vEc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\location.js"
     },
     {
       "Identity": "C:\\Users\\ROG\\Documents\\ASP_NET\\SignalRChat\\wwwroot\\js\\signalr\\dist\\browser\\signalr.js",
@@ -1630,6 +1651,88 @@
       ]
     },
     {
+      "Route": "js/location.b44fxd1gx7.js",
+      "AssetFile": "C:\\Users\\ROG\\Documents\\ASP_NET\\SignalRChat\\wwwroot\\js\\location.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1203"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZRh9ZrmusrCnrxE9d2aZPJcHNAEPNaEdB+y0Vu22vEc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 03:19:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b44fxd1gx7"
+        },
+        {
+          "Name": "label",
+          "Value": "js/location.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZRh9ZrmusrCnrxE9d2aZPJcHNAEPNaEdB+y0Vu22vEc="
+        }
+      ]
+    },
+    {
+      "Route": "js/location.js",
+      "AssetFile": "C:\\Users\\ROG\\Documents\\ASP_NET\\SignalRChat\\wwwroot\\js\\location.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1203"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZRh9ZrmusrCnrxE9d2aZPJcHNAEPNaEdB+y0Vu22vEc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 03:19:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZRh9ZrmusrCnrxE9d2aZPJcHNAEPNaEdB+y0Vu22vEc="
+        }
+      ]
+    },
+    {
       "Route": "js/signalr/dist/browser/signalr.cqu3aupeo3.js",
       "AssetFile": "C:\\Users\\ROG\\Documents\\ASP_NET\\SignalRChat\\wwwroot\\js\\signalr\\dist\\browser\\signalr.js",
       "Selectors": [],
@@ -1816,7 +1919,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 02:40:54 GMT"
+          "Value": "Tue, 04 Feb 2025 03:06:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1861,7 +1964,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 02:40:54 GMT"
+          "Value": "Tue, 04 Feb 2025 03:06:05 GMT"
         },
         {
           "Name": "Cache-Control",

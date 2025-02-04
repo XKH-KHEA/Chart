@@ -331,6 +331,88 @@
       ]
     },
     {
+      "Route": "js/location.b44fxd1gx7.js",
+      "AssetFile": "js/location.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1203"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZRh9ZrmusrCnrxE9d2aZPJcHNAEPNaEdB+y0Vu22vEc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 03:19:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b44fxd1gx7"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZRh9ZrmusrCnrxE9d2aZPJcHNAEPNaEdB+y0Vu22vEc="
+        },
+        {
+          "Name": "label",
+          "Value": "js/location.js"
+        }
+      ]
+    },
+    {
+      "Route": "js/location.js",
+      "AssetFile": "js/location.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1203"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZRh9ZrmusrCnrxE9d2aZPJcHNAEPNaEdB+y0Vu22vEc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 03:19:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZRh9ZrmusrCnrxE9d2aZPJcHNAEPNaEdB+y0Vu22vEc="
+        }
+      ]
+    },
+    {
       "Route": "js/signalr/dist/browser/signalr.cqu3aupeo3.js",
       "AssetFile": "js/signalr/dist/browser/signalr.js",
       "Selectors": [],
@@ -521,7 +603,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 02:40:54 GMT"
+          "Value": "Tue, 04 Feb 2025 03:06:05 GMT"
         }
       ],
       "EndpointProperties": [
@@ -566,7 +648,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 02:40:54 GMT"
+          "Value": "Tue, 04 Feb 2025 03:06:05 GMT"
         }
       ],
       "EndpointProperties": [

@@ -22,11 +22,7 @@ namespace SignalRChat
             app.UseStaticFiles();
             app.UseRouting();
 
-            app.UseEndpoints(endpoints =>
-            {
-                endpoints.MapHub<VideoHub>("/videoHub");
-            });
-
+    
             app.UseHttpsRedirection();
             app.UseStaticFiles();
 
@@ -35,7 +31,14 @@ namespace SignalRChat
             app.UseAuthorization();
 
             app.MapRazorPages();
-
+            app.UseEndpoints(endpoints =>
+            {
+                endpoints.MapHub<VideoHub>("/videoHub");
+            });
+            app.UseEndpoints(endpoints =>
+            {
+                endpoints.MapHub<LocationHub>("/locationHub");
+            });
             app.Run();
         }
     }

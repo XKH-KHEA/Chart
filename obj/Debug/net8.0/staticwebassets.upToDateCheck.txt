@@ -1,6 +1,7 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\js\chat.js
+wwwroot\js\location.js
 wwwroot\js\signalr\dist\browser\signalr.js
 wwwroot\js\site.js
 wwwroot\js\video.js
