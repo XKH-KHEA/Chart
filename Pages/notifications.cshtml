@@ -40,7 +40,6 @@
             const connection = new signalR.HubConnectionBuilder()
                 .withUrl("/notificationHub")
                 .build();
-
             connection.start().then(function () {
                 console.log("SignalR Connected");
 
