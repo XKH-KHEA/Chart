@@ -3,6 +3,7 @@
 @{
     <!DOCTYPE html>
     <html lang="en">
+
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -29,6 +30,7 @@
             }
         </style>
     </head>
+
     <body>
         <h2>Real-Time Notifications Example</h2>
         <div id="notification-container"></div>
@@ -50,24 +52,27 @@
             }).catch(function (err) {
                 console.error("SignalR Connection Error:", err);
             });
+                // Listening for incoming notifications
+                connection.on("ReceiveMessage", function (user, message) {
+                    // Display browser alert notification
+                    alert(`${user}: ${message}`);
 
-            // Listening for incoming notifications
-            connection.on("ReceiveMessage", function (user, message) {
-                const notificationContainer = document.getElementById("notification-container");
+                    // Optionally, you can also show the notification in the DOM (as previously done)
+                    const notificationContainer = document.getElementById("notification-container");
+                    const notification = document.createElement("div");
+                    notification.classList.add("notification");
+                    notification.textContent = `${user}: ${message}`;
+                    notificationContainer.appendChild(notification);
 
-                const notification = document.createElement("div");
-                notification.classList.add("notification");
-                notification.textContent = `${user}: ${message}`;
+                    // Auto hide notification after 5 seconds
+                    setTimeout(() => {
+                        notificationContainer.removeChild(notification);
+                    }, 5000);
+                });
 
-                notificationContainer.appendChild(notification);
-
-                // Auto hide notification after 5 seconds
-                setTimeout(() => {
-                    notificationContainer.removeChild(notification);
-                }, 5000);
-            });
         </script>
     </body>
+
     </html>
 
 }
