@@ -70,6 +70,14 @@
               "SubPath": "js/site.js"
             },
             "Patterns": null
+          },
+          "video.js": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "js/video.js"
+            },
+            "Patterns": null
           }
         },
         "Asset": null,

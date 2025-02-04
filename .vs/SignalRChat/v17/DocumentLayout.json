@@ -3,20 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\ROG\\Documents\\ASP_NET\\SignalRChat\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A3946872-A5B9-4162-B238-D15353A67EE3}|SignalRChat.csproj|c:\\users\\rog\\documents\\asp_net\\signalrchat\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3946872-A5B9-4162-B238-D15353A67EE3}|SignalRChat.csproj|solutionrelative:hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3946872-A5B9-4162-B238-D15353A67EE3}|SignalRChat.csproj|c:\\users\\rog\\documents\\asp_net\\signalrchat\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3946872-A5B9-4162-B238-D15353A67EE3}|SignalRChat.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3946872-A5B9-4162-B238-D15353A67EE3}|SignalRChat.csproj|c:\\users\\rog\\documents\\asp_net\\signalrchat\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3946872-A5B9-4162-B238-D15353A67EE3}|SignalRChat.csproj|solutionrelative:pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3946872-A5B9-4162-B238-D15353A67EE3}|SignalRChat.csproj|c:\\users\\rog\\documents\\asp_net\\signalrchat\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3946872-A5B9-4162-B238-D15353A67EE3}|SignalRChat.csproj|solutionrelative:pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3946872-A5B9-4162-B238-D15353A67EE3}|SignalRChat.csproj|c:\\users\\rog\\documents\\asp_net\\signalrchat\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3946872-A5B9-4162-B238-D15353A67EE3}|SignalRChat.csproj|solutionrelative:pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3946872-A5B9-4162-B238-D15353A67EE3}|SignalRChat.csproj|c:\\users\\rog\\documents\\asp_net\\signalrchat\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3946872-A5B9-4162-B238-D15353A67EE3}|SignalRChat.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3946872-A5B9-4162-B238-D15353A67EE3}|SignalRChat.csproj|c:\\users\\rog\\documents\\asp_net\\signalrchat\\pages\\video.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3946872-A5B9-4162-B238-D15353A67EE3}|SignalRChat.csproj|solutionrelative:pages\\video.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3946872-A5B9-4162-B238-D15353A67EE3}|SignalRChat.csproj|c:\\users\\rog\\documents\\asp_net\\signalrchat\\pages\\video.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3946872-A5B9-4162-B238-D15353A67EE3}|SignalRChat.csproj|solutionrelative:pages\\video.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A3946872-A5B9-4162-B238-D15353A67EE3}|SignalRChat.csproj|c:\\users\\rog\\documents\\asp_net\\signalrchat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3946872-A5B9-4162-B238-D15353A67EE3}|SignalRChat.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A3946872-A5B9-4162-B238-D15353A67EE3}|SignalRChat.csproj|c:\\users\\rog\\documents\\asp_net\\signalrchat\\wwwroot\\js\\video.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A3946872-A5B9-4162-B238-D15353A67EE3}|SignalRChat.csproj|solutionrelative:wwwroot\\js\\video.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3946872-A5B9-4162-B238-D15353A67EE3}|SignalRChat.csproj|c:\\users\\rog\\documents\\asp_net\\signalrchat\\hubs\\videohub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3946872-A5B9-4162-B238-D15353A67EE3}|SignalRChat.csproj|solutionrelative:hubs\\videohub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A3946872-A5B9-4162-B238-D15353A67EE3}|SignalRChat.csproj|c:\\users\\rog\\documents\\asp_net\\signalrchat\\wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A3946872-A5B9-4162-B238-D15353A67EE3}|SignalRChat.csproj|solutionrelative:wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3946872-A5B9-4162-B238-D15353A67EE3}|SignalRChat.csproj|c:\\users\\rog\\documents\\asp_net\\signalrchat\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A3946872-A5B9-4162-B238-D15353A67EE3}|SignalRChat.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A3946872-A5B9-4162-B238-D15353A67EE3}|SignalRChat.csproj|c:\\users\\rog\\documents\\asp_net\\signalrchat\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3946872-A5B9-4162-B238-D15353A67EE3}|SignalRChat.csproj|solutionrelative:hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,43 +66,150 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ROG\\Documents\\ASP_NET\\SignalRChat\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ROG\\Documents\\ASP_NET\\SignalRChat\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T02:40:28.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ROG\\Documents\\ASP_NET\\SignalRChat\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ROG\\Documents\\ASP_NET\\SignalRChat\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T02:40:21.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ROG\\Documents\\ASP_NET\\SignalRChat\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ROG\\Documents\\ASP_NET\\SignalRChat\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T02:40:17.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\ROG\\Documents\\ASP_NET\\SignalRChat\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\ROG\\Documents\\ASP_NET\\SignalRChat\\Pages\\Error.cshtml",
+              "RelativeToolTip": "Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T02:40:16.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "video.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Documents\\ASP_NET\\SignalRChat\\Pages\\video.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\video.cshtml.cs",
+              "ToolTip": "C:\\Users\\ROG\\Documents\\ASP_NET\\SignalRChat\\Pages\\video.cshtml.cs",
+              "RelativeToolTip": "Pages\\video.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T02:40:00.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "video.cshtml",
+              "DocumentMoniker": "C:\\Users\\ROG\\Documents\\ASP_NET\\SignalRChat\\Pages\\video.cshtml",
+              "RelativeDocumentMoniker": "Pages\\video.cshtml",
+              "ToolTip": "C:\\Users\\ROG\\Documents\\ASP_NET\\SignalRChat\\Pages\\video.cshtml",
+              "RelativeToolTip": "Pages\\video.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T02:36:27.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "video.js",
+              "DocumentMoniker": "C:\\Users\\ROG\\Documents\\ASP_NET\\SignalRChat\\wwwroot\\js\\video.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\video.js",
+              "ToolTip": "C:\\Users\\ROG\\Documents\\ASP_NET\\SignalRChat\\wwwroot\\js\\video.js",
+              "RelativeToolTip": "wwwroot\\js\\video.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-04T02:35:31.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VideoHub.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Documents\\ASP_NET\\SignalRChat\\Hubs\\VideoHub.cs",
+              "RelativeDocumentMoniker": "Hubs\\VideoHub.cs",
+              "ToolTip": "C:\\Users\\ROG\\Documents\\ASP_NET\\SignalRChat\\Hubs\\VideoHub.cs",
+              "RelativeToolTip": "Hubs\\VideoHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T02:34:08.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "chat.js",
               "DocumentMoniker": "C:\\Users\\ROG\\Documents\\ASP_NET\\SignalRChat\\wwwroot\\js\\chat.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\chat.js",
               "ToolTip": "C:\\Users\\ROG\\Documents\\ASP_NET\\SignalRChat\\wwwroot\\js\\chat.js",
               "RelativeToolTip": "wwwroot\\js\\chat.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEYAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-03T09:44:54.226Z"
+              "WhenOpened": "2025-02-03T09:44:54.226Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ROG\\Documents\\ASP_NET\\SignalRChat\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Index.cshtml",
               "ToolTip": "C:\\Users\\ROG\\Documents\\ASP_NET\\SignalRChat\\Pages\\Index.cshtml",
               "RelativeToolTip": "Pages\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAB8AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-03T09:43:59.485Z"
+              "WhenOpened": "2025-02-03T09:43:59.485Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ROG\\Documents\\ASP_NET\\SignalRChat\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\ROG\\Documents\\ASP_NET\\SignalRChat\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBsAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwB0AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T09:42:57.803Z"
+              "WhenOpened": "2025-02-03T09:42:57.803Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
               "Title": "ChatHub.cs",
               "DocumentMoniker": "C:\\Users\\ROG\\Documents\\ASP_NET\\SignalRChat\\Hubs\\ChatHub.cs",
               "RelativeDocumentMoniker": "Hubs\\ChatHub.cs",

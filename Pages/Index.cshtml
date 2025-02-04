@@ -1,13 +1,4 @@
-﻿@* @page *@
-@* @model IndexModel *@
-@* @{ *@
-@*     ViewData["Title"] = "Home page"; *@
-@* } *@
-
-@* <div class="text-center"> *@
-@*     <h1 class="display-4">Welcome</h1> *@
-@*     <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p> *@
-@* </div> *@
+﻿@* 
 @page
 <div class="container">
     <div class="row p-1">
@@ -35,4 +26,93 @@
     </div>
 </div>
 <script src="~/js/signalr/dist/browser/signalr.js"></script>
+<script src="~/js/chat.js"></script> *@
+@page
+<div class="chat-container">
+    <div class="chat-row">
+        <div class="chat-label">User</div>
+        <div class="chat-input">
+            <input type="text" id="userInput" placeholder="Enter your name..." />
+        </div>
+    </div>
+    <div class="chat-row">
+        <div class="chat-label">Message</div>
+        <div class="chat-input">
+            <input type="text" id="messageInput" placeholder="Type your message..." />
+        </div>
+    </div>
+    <div class="chat-row text-end">
+        <input type="button" id="sendButton" value="Send Message" />
+    </div>
+    <div class="chat-divider"></div>
+    <div class="chat-row">
+        <ul id="messagesList"></ul>
+    </div>
+</div>
+
+<!-- Include SignalR & JavaScript -->
+<script src="~/js/signalr/dist/browser/signalr.js"></script>
 <script src="~/js/chat.js"></script>
+
+<style>
+    .chat-container {
+        width: 50%;
+        margin: auto;
+        padding: 20px;
+        border-radius: 8px;
+        background: #f9f9f9;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .chat-row {
+        display: flex;
+        align-items: center;
+        margin-bottom: 10px;
+    }
+
+    .chat-label {
+        width: 80px;
+        font-weight: bold;
+    }
+
+    .chat-input input {
+        width: 100%;
+        padding: 8px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+    }
+
+    .text-end {
+        text-align: right;
+    }
+
+    #sendButton {
+        padding: 8px 15px;
+        background: #007bff;
+        color: white;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+
+    #sendButton:hover {
+        background: #0056b3;
+    }
+
+    .chat-divider {
+        border-top: 1px solid #ddd;
+        margin: 15px 0;
+    }
+
+    #messagesList {
+        list-style: none;
+        padding: 0;
+    }
+
+    #messagesList li {
+        background: #e9ecef;
+        padding: 8px;
+        border-radius: 4px;
+        margin-bottom: 5px;
+    }
+</style>

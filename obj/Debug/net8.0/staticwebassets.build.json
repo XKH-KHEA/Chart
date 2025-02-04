@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "F6/IF1gEhrhd4iUduZqvAK/xzW0QEGJUVsWkOtp+kZI=",
+  "Hash": "HQYNM04fm/GbQkMVPZj8GCu461zdPwFpK9QD2sSSkz8=",
   "Source": "SignalRChat",
   "BasePath": "_content/SignalRChat",
   "Mode": "Default",
@@ -115,8 +115,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "mch42cbm42",
-      "Integrity": "Kq3eRhZ8f7PQSeoMqyL+5UfjZFlUFxEPz1mVOe/m+Ac=",
+      "Fingerprint": "emz0l8dkz4",
+      "Integrity": "qiYcmeYaR9P4CNK4wOV0WsAMgMqA/txCSp5nqcJvmgE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\chat.js"
@@ -162,6 +162,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "C:\\Users\\ROG\\Documents\\ASP_NET\\SignalRChat\\wwwroot\\js\\video.js",
+      "SourceId": "SignalRChat",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ROG\\Documents\\ASP_NET\\SignalRChat\\wwwroot\\",
+      "BasePath": "_content/SignalRChat",
+      "RelativePath": "js/video#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4zd0ojwvqz",
+      "Integrity": "QLWMJArrEl+IYvYZhPjTazuD/Y0Rfg3GN8XM9ZC4loc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\video.js"
     },
     {
       "Identity": "C:\\Users\\ROG\\Documents\\ASP_NET\\SignalRChat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
@@ -1527,6 +1548,51 @@
       ]
     },
     {
+      "Route": "js/chat.emz0l8dkz4.js",
+      "AssetFile": "C:\\Users\\ROG\\Documents\\ASP_NET\\SignalRChat\\wwwroot\\js\\chat.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2689"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qiYcmeYaR9P4CNK4wOV0WsAMgMqA/txCSp5nqcJvmgE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 01:54:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "emz0l8dkz4"
+        },
+        {
+          "Name": "label",
+          "Value": "js/chat.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qiYcmeYaR9P4CNK4wOV0WsAMgMqA/txCSp5nqcJvmgE="
+        }
+      ]
+    },
+    {
       "Route": "js/chat.js",
       "AssetFile": "C:\\Users\\ROG\\Documents\\ASP_NET\\SignalRChat\\wwwroot\\js\\chat.js",
       "Selectors": [],
@@ -1537,7 +1603,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1222"
+          "Value": "2689"
         },
         {
           "Name": "Content-Type",
@@ -1545,11 +1611,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Kq3eRhZ8f7PQSeoMqyL+5UfjZFlUFxEPz1mVOe/m+Ac=\""
+          "Value": "\"qiYcmeYaR9P4CNK4wOV0WsAMgMqA/txCSp5nqcJvmgE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 09:45:46 GMT"
+          "Value": "Tue, 04 Feb 2025 01:54:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1559,52 +1625,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Kq3eRhZ8f7PQSeoMqyL+5UfjZFlUFxEPz1mVOe/m+Ac="
-        }
-      ]
-    },
-    {
-      "Route": "js/chat.mch42cbm42.js",
-      "AssetFile": "C:\\Users\\ROG\\Documents\\ASP_NET\\SignalRChat\\wwwroot\\js\\chat.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1222"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Kq3eRhZ8f7PQSeoMqyL+5UfjZFlUFxEPz1mVOe/m+Ac=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 09:45:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "mch42cbm42"
-        },
-        {
-          "Name": "label",
-          "Value": "js/chat.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Kq3eRhZ8f7PQSeoMqyL+5UfjZFlUFxEPz1mVOe/m+Ac="
+          "Value": "sha256-qiYcmeYaR9P4CNK4wOV0WsAMgMqA/txCSp5nqcJvmgE="
         }
       ]
     },
@@ -1769,6 +1790,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+        }
+      ]
+    },
+    {
+      "Route": "js/video.4zd0ojwvqz.js",
+      "AssetFile": "C:\\Users\\ROG\\Documents\\ASP_NET\\SignalRChat\\wwwroot\\js\\video.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1822"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QLWMJArrEl+IYvYZhPjTazuD/Y0Rfg3GN8XM9ZC4loc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 02:40:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4zd0ojwvqz"
+        },
+        {
+          "Name": "label",
+          "Value": "js/video.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QLWMJArrEl+IYvYZhPjTazuD/Y0Rfg3GN8XM9ZC4loc="
+        }
+      ]
+    },
+    {
+      "Route": "js/video.js",
+      "AssetFile": "C:\\Users\\ROG\\Documents\\ASP_NET\\SignalRChat\\wwwroot\\js\\video.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1822"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QLWMJArrEl+IYvYZhPjTazuD/Y0Rfg3GN8XM9ZC4loc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 02:40:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QLWMJArrEl+IYvYZhPjTazuD/Y0Rfg3GN8XM9ZC4loc="
         }
       ]
     },
