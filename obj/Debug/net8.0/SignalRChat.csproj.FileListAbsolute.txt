@@ -27,7 +27,6 @@ C:\Users\ROG\Documents\ASP_NET\SignalRChat\obj\Debug\net8.0\staticwebassets\msbu
 C:\Users\ROG\Documents\ASP_NET\SignalRChat\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SignalRChat.props
 C:\Users\ROG\Documents\ASP_NET\SignalRChat\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SignalRChat.props
 C:\Users\ROG\Documents\ASP_NET\SignalRChat\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\ROG\Documents\ASP_NET\SignalRChat\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\ROG\Documents\ASP_NET\SignalRChat\obj\Debug\net8.0\SignalRChat.dll
 C:\Users\ROG\Documents\ASP_NET\SignalRChat\obj\Debug\net8.0\refint\SignalRChat.dll
 C:\Users\ROG\Documents\ASP_NET\SignalRChat\obj\Debug\net8.0\SignalRChat.pdb
