@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "BM0Q1pA1IFm+pKqUlPea6AGtGY80eIaxiBlj3tiy66s=",
+  "Hash": "AaOF6fWfwwQwfre2NooU2ydOSTVqueJTX26cMGLXZHM=",
   "Source": "SignalRChat",
   "BasePath": "_content/SignalRChat",
   "Mode": "Default",
@@ -101,6 +101,27 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Users\\ROG\\Documents\\ASP_NET\\SignalRChat\\wwwroot\\images\\icon-chart.png",
+      "SourceId": "SignalRChat",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ROG\\Documents\\ASP_NET\\SignalRChat\\wwwroot\\",
+      "BasePath": "_content/SignalRChat",
+      "RelativePath": "images/icon-chart#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8mdt0rgucb",
+      "Integrity": "0EkXzCKoDHqsMo8nC8ac4Ofx8voEuZUS4lJ8D8dJr14=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icon-chart.png"
+    },
+    {
       "Identity": "C:\\Users\\ROG\\Documents\\ASP_NET\\SignalRChat\\wwwroot\\js\\chat.js",
       "SourceId": "SignalRChat",
       "SourceType": "Discovered",
@@ -115,8 +136,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "emz0l8dkz4",
-      "Integrity": "qiYcmeYaR9P4CNK4wOV0WsAMgMqA/txCSp5nqcJvmgE=",
+      "Fingerprint": "7v7ue4el3e",
+      "Integrity": "rf4vCj/asTDPwn7MSum5DpWp4Cfh7QSUArXzp9qBEh4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\chat.js"
@@ -1569,8 +1590,8 @@
       ]
     },
     {
-      "Route": "js/chat.emz0l8dkz4.js",
-      "AssetFile": "C:\\Users\\ROG\\Documents\\ASP_NET\\SignalRChat\\wwwroot\\js\\chat.js",
+      "Route": "images/icon-chart.8mdt0rgucb.png",
+      "AssetFile": "C:\\Users\\ROG\\Documents\\ASP_NET\\SignalRChat\\wwwroot\\images\\icon-chart.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1579,19 +1600,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2689"
+          "Value": "136192"
         },
         {
           "Name": "Content-Type",
-          "Value": "text/javascript"
+          "Value": "image/png"
         },
         {
           "Name": "ETag",
-          "Value": "\"qiYcmeYaR9P4CNK4wOV0WsAMgMqA/txCSp5nqcJvmgE=\""
+          "Value": "\"0EkXzCKoDHqsMo8nC8ac4Ofx8voEuZUS4lJ8D8dJr14=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 01:54:04 GMT"
+          "Value": "Wed, 05 Feb 2025 01:45:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1601,7 +1622,89 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "emz0l8dkz4"
+          "Value": "8mdt0rgucb"
+        },
+        {
+          "Name": "label",
+          "Value": "images/icon-chart.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0EkXzCKoDHqsMo8nC8ac4Ofx8voEuZUS4lJ8D8dJr14="
+        }
+      ]
+    },
+    {
+      "Route": "images/icon-chart.png",
+      "AssetFile": "C:\\Users\\ROG\\Documents\\ASP_NET\\SignalRChat\\wwwroot\\images\\icon-chart.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "136192"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0EkXzCKoDHqsMo8nC8ac4Ofx8voEuZUS4lJ8D8dJr14=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 01:45:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0EkXzCKoDHqsMo8nC8ac4Ofx8voEuZUS4lJ8D8dJr14="
+        }
+      ]
+    },
+    {
+      "Route": "js/chat.7v7ue4el3e.js",
+      "AssetFile": "C:\\Users\\ROG\\Documents\\ASP_NET\\SignalRChat\\wwwroot\\js\\chat.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4707"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rf4vCj/asTDPwn7MSum5DpWp4Cfh7QSUArXzp9qBEh4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 02:01:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7v7ue4el3e"
         },
         {
           "Name": "label",
@@ -1609,7 +1712,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-qiYcmeYaR9P4CNK4wOV0WsAMgMqA/txCSp5nqcJvmgE="
+          "Value": "sha256-rf4vCj/asTDPwn7MSum5DpWp4Cfh7QSUArXzp9qBEh4="
         }
       ]
     },
@@ -1624,7 +1727,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2689"
+          "Value": "4707"
         },
         {
           "Name": "Content-Type",
@@ -1632,11 +1735,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"qiYcmeYaR9P4CNK4wOV0WsAMgMqA/txCSp5nqcJvmgE=\""
+          "Value": "\"rf4vCj/asTDPwn7MSum5DpWp4Cfh7QSUArXzp9qBEh4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 01:54:04 GMT"
+          "Value": "Wed, 05 Feb 2025 02:01:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1646,7 +1749,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-qiYcmeYaR9P4CNK4wOV0WsAMgMqA/txCSp5nqcJvmgE="
+          "Value": "sha256-rf4vCj/asTDPwn7MSum5DpWp4Cfh7QSUArXzp9qBEh4="
         }
       ]
     },

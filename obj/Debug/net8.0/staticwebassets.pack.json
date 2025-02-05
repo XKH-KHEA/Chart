@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\ROG\\Documents\\ASP_NET\\SignalRChat\\wwwroot\\images\\icon-chart.png",
+      "PackagePath": "staticwebassets\\images\\icon-chart.png"
+    },
+    {
       "Id": "C:\\Users\\ROG\\Documents\\ASP_NET\\SignalRChat\\wwwroot\\js\\chat.js",
       "PackagePath": "staticwebassets\\js\\chat.js"
     },

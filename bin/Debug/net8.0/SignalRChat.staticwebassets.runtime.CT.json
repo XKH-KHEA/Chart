@@ -27,6 +27,20 @@
         },
         "Patterns": null
       },
+      "images": {
+        "Children": {
+          "icon-chart.png": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "images/icon-chart.png"
+            },
+            "Patterns": null
+          }
+        },
+        "Asset": null,
+        "Patterns": null
+      },
       "js": {
         "Children": {
           "chat.js": {
